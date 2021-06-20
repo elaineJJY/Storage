@@ -1,3 +1,3 @@
-# Picture
+# Private Storage
 
-storage for pictures
+storage
